@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="EPUB" Destinations="" GlossaryTermConversion="all" EnableDynamicContentInEpub="true" ConditionTagExpression="exclude[Default.PrintOnly] " MasterStylesheet="/Content/Resources/Stylesheets/NewStylesheet.css">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" PopupConversion="footnote" ExpandingTextConversion="footnote" />
+</CatapultTarget>

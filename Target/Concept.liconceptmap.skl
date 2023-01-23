@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Concept Word</Key>
+        <OldValue>Concept Word</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Delete</Key>
+        <OldValue>Delete</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>javacontrols</Key>
+        <OldValue>javacontrols</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+</StringMap>

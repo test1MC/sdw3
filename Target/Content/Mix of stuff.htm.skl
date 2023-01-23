@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1092" MadCap:lastWidth="992" xml:space="preserve">
+    <head>
+        <link href="Resources/Stylesheets/NewStylesheet.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1><MadCap:keyword term="javacontrols" />砻קยด12ตว融<MadCap:keyword term="Stuff" /></h1>
+        <p>砻קยด13ตว融</p>
+        <p>&#160;</p>
+        <p>砻קยด14ตว融</p>
+        <p>&#160;</p>
+        <p>砻קยด15ตว融</p>
+        <p><a name="Delete">
+            </a>砻קยด16ตว融</p>
+        <p>&#160;</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด17ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด18ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>&#160;</p>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead>砻קยด19ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด20ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>砻קยด21ตว融</p>
+        <p>
+            <MadCap:popup>
+                <MadCap:popupHead>砻קยด22ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด23ตว融</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <p>砻קยด24ตว融</p>
+        <p><MadCap:namedDestination name="Delete" />砻קยด25ตว融<img src="Resources/Images/Image.png" /></p>
+        <p>
+            <MadCap:xref href="Delete.htm">Delete</MadCap:xref>
+        </p>
+        <p>&#160;</p>
+        <MadCap:slideshow>
+            <MadCap:slide>
+                <h2>砻קยด26ตว融</h2>
+                <p>砻קยด27ตว融</p>
+                <p>砻קยด28ตว融</p>
+                <p>&#160;</p>
+            </MadCap:slide>
+            <MadCap:slide>
+                <h2>砻קยด29ตว融</h2>
+                <p>砻קยด30ตว融</p>
+                <p>砻קยด31ตว融</p>
+                <p>&#160;</p>
+            </MadCap:slide>
+        </MadCap:slideshow>
+    </body>
+</html>

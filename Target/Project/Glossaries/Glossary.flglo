@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry glossTerm="Glossary.Term0">
+        <Terms>
+            <Term>GlossaryTerm1</Term>
+        </Terms>
+        <Definition Link="">this is the definition for the word</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term1">
+        <Terms>
+            <Term>GlossaryTerm2</Term>
+        </Terms>
+        <Definition Link="">this is the definition for the word</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term2" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Delete</Term>
+        </Terms>
+        <Definition Link="/Content/Delete.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Hyperlink" glossTerm="Glossary.Term3">
+        <Terms>
+            <Term>Yellow</Term>
+        </Terms>
+        <Definition Link="">Yellow /ˈjɛloʊ/ is the color of gold, butter, and ripe lemons.[2] In the spectrum of visible light, and in the traditional color wheel used by painters, yellow is found between green and orange. It is a primary color in subtractive color.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term4">
+        <Terms>
+            <Term>Orange1</Term>
+        </Terms>
+        <Definition Link="">Orange is the colour of saffron, carrots, pumpkins and apricots. It is between red and yellow on the spectrum of light, and in the traditional colour wheel used by painters. Its name is derived from the orange fruit.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Expanding" glossTerm="Glossary.Term5">
+        <Terms>
+            <Term>Orange</Term>
+        </Terms>
+        <Definition Link="/Content/GlossaryTopics/Orange.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Expanding" glossTerm="Glossary.Term6">
+        <Terms>
+            <Term>Apple</Term>
+        </Terms>
+        <Definition Link="">The apple tree (Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Popup" glossTerm="Glossary.Term7">
+        <Terms>
+            <Term>Green</Term>
+        </Terms>
+        <Definition Link="/Content/GlossaryTopics/Green.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Popup" glossTerm="Glossary.Term8">
+        <Terms>
+            <Term>Banana</Term>
+        </Terms>
+        <Definition Link="">A banana is an edible fruit, botanically a berry,[1][2] produced by several kinds of large herbaceous flowering plants in the genus Musa.[3] (In some countries, bananas used for cooking may be called plantains.) The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind which may be green, yellow, red, purple, or brown when ripe. The fruits grow in clusters hanging from the top of the plant. Almost all modern edible parthenocarpic (seedless) bananas come from two wild species – Musa acuminata and Musa balbisiana. The scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa × paradisiaca for the hybrid Musa acuminata × M. balbisiana, depending on their genomic constitution. The old scientific name Musa sapientum is no longer used.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Hyperlink" glossTerm="Glossary.Term9">
+        <Terms>
+            <Term>Apples</Term>
+        </Terms>
+        <Definition Link="/Content/GlossaryTopics/Apples.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term10">
+        <Terms>
+            <Term>dog</Term>
+        </Terms>
+        <Definition Link="">Four legged animal</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

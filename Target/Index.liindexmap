@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Delete</Key>
+  <OldValue>Delete</OldValue>
+  <NewValue>Delete</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Index-Word</Key>
+  <OldValue>Index-Word</OldValue>
+  <NewValue>Index-Word</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>javacontrols</Key>
+  <OldValue>javacontrols</OldValue>
+  <NewValue>javacontrols</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>replace</Key>
+  <OldValue>replace</OldValue>
+  <NewValue>replace</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Stuff</Key>
+  <OldValue>Stuff</OldValue>
+  <NewValue>Stuff</NewValue>
+</Entry>
+</StringMap>

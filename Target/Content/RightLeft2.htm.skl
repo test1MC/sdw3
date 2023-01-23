@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="750" MadCap:lastWidth="1205" MadCap:onlyLocalStylesheets="True" xml:space="preserve">
+    <head>
+        <link href="Resources/Stylesheets/more.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p><MadCap:toggler targets="a">砻קยด2ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="a">砻קยด3ตว融</p>
+        <p><MadCap:toggler targets="b" class="defaultRight">砻קยด4ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="b">砻קยด5ตว融</p>
+        <p><MadCap:toggler targets="c" class="customRight">砻קยด6ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="c">砻קยด7ตว融</p>
+        <p><MadCap:toggler targets="d" class="none">砻קยด8ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="d">砻קยด9ตว融</p>
+        <h2>砻קยด10ตว融</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด11ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด12ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="defaultRight">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด13ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด14ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="customRight">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด15ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด16ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="none">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด17ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด18ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2>砻קยด19ตว融</h2>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead>砻קยด20ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด21ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding class="small_defaultleft">
+                <MadCap:expandingHead>砻קยด22ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด23ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>
+            <MadCap:expanding class="none">
+                <MadCap:expandingHead>砻קยด24ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด25ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+    </body>
+</html>

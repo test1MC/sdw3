@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry glossTerm="Glossary.Term0">
+        <Terms>
+            <Term>砻קยด1ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด2ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term1">
+        <Terms>
+            <Term>砻קยด3ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด4ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term2" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>砻קยด5ตว融</Term>
+        </Terms>
+        <Definition Link="/Content/Delete.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Hyperlink" glossTerm="Glossary.Term3">
+        <Terms>
+            <Term>砻קยด6ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด7ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term4">
+        <Terms>
+            <Term>砻קยด8ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด9ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Expanding" glossTerm="Glossary.Term5">
+        <Terms>
+            <Term>砻קยด10ตว融</Term>
+        </Terms>
+        <Definition Link="/Content/GlossaryTopics/Orange.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Expanding" glossTerm="Glossary.Term6">
+        <Terms>
+            <Term>砻קยด11ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด12ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Popup" glossTerm="Glossary.Term7">
+        <Terms>
+            <Term>砻קยด13ตว融</Term>
+        </Terms>
+        <Definition Link="/Content/GlossaryTopics/Green.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Popup" glossTerm="Glossary.Term8">
+        <Terms>
+            <Term>砻קยด14ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด15ตว融</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry TermClass="Hyperlink" glossTerm="Glossary.Term9">
+        <Terms>
+            <Term>砻קยด16ตว融</Term>
+        </Terms>
+        <Definition Link="/Content/GlossaryTopics/Apples.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term10">
+        <Terms>
+            <Term>砻קยด17ตว融</Term>
+        </Terms>
+        <Definition Link="">砻קยด18ตว融</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

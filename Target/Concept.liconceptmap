@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Concept Word</Key>
+  <OldValue>Concept Word</OldValue>
+  <NewValue>Concept Word</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Delete</Key>
+  <OldValue>Delete</OldValue>
+  <NewValue>Delete</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>javacontrols</Key>
+  <OldValue>javacontrols</OldValue>
+  <NewValue>javacontrols</NewValue>
+</Entry>
+</StringMap>

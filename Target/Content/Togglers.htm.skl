@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="920" MadCap:lastWidth="1389" xml:space="preserve">
+    <head>&#160;<link href="Resources/Stylesheets/NewStylesheet.css" rel="stylesheet" type="text/css" /></head>
+    <body>
+        <h1><MadCap:concept term="javacontrols" />
+            <MadCap:keyword term="javacontrols" />砻קยด3ตว融</h1>
+        <p><MadCap:toggler targets="normal">砻קยด4ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="normal">砻קยด5ตว融</p>
+        <h2>砻קยด6ตว融</h2>
+        <p><MadCap:toggler targets="dif1" class="test">砻קยด7ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif1">砻קยด8ตว融</p>
+        <p><MadCap:toggler targets="dif2" class="right">砻קยด9ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif2">砻קยด10ตว融</p>
+        <p MadCap:conditions="Default.bugged,Default.None"><MadCap:toggler targets="dif3" class="none">砻קยด11ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif3" MadCap:conditions="Default.bugged,Default.None">砻קยด12ตว融</p>
+        <p><MadCap:toggler targets="dif4" class="small_left">砻קยด13ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif4">砻קยด14ตว融</p>
+        <p><MadCap:toggler targets="dif5" class="small_right">砻קยด15ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif5">砻קยด16ตว融</p>
+        <p><MadCap:toggler targets="dif6" class="large_left">砻קยด17ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif6">砻קยด18ตว融</p>
+        <p><MadCap:toggler targets="dif7" class="large_right">砻קยด19ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif7">砻קยด20ตว融</p>
+        <h2>砻קยด21ตว融</h2>
+        <p><MadCap:toggler targets="dif8" class="test25">砻קยด22ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="dif8">砻קยด23ตว融</p>
+        <p>&#160;</p>
+    </body>
+</html>

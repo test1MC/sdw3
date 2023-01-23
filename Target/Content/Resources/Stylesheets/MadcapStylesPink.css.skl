@@ -1,0 +1,733 @@
+/*<meta />*/
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+MadCap|annotation.green
+{
+	color: #008000;
+}
+
+MadCap|annotation.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|bodyProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|bodyProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|breadcrumbsProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|breadcrumbsProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|concept.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|concept.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|conceptLink.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|conceptLink.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|conceptLinkControlList.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|conceptLinkControlList.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|conceptLinkControlListItem.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|conceptLinkControlListItem.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|conceptLinkControlListItemLink.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|conceptLinkControlListItemLink.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|conceptsProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|conceptsProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|conditionalText.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|conditionalText.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|dropDown.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|dropDown.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|dropDownBody.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|dropDownBody.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|dropDownHead.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|dropDownHead.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|dropDownHotspot.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|dropDownHotspot.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|endnoteBlock.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|endnoteBlock.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|endnotesBlock.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|endnotesBlock.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|endnotesProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|endnotesProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|equation.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|equation.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|expanding.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|expanding.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|expandingBody.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|expandingBody.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|expandingHead.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|expandingHead.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|footnote.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|footnote.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|footnoteBlock.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|footnoteBlock.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|footnotesBlock.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|footnotesBlock.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|glossaryProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|glossaryTerm.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|helpControlList.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|helpControlList.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|helpControlListItem.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|helpControlListItem.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|helpControlListItemLink.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|helpControlListItemLink.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|helpControlMenu.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|helpControlMenu.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|helpControlMenuItem.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|helpControlMenuItem.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|indexProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|indexProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|keyword.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|keyword.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|keywordLink.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|keywordLink.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|keywordLinkControlList.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|keywordLinkControlList.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|keywordLinkControlListItem.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|keywordLinkControlListItem.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|keywordLinkControlListItemLink.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|keywordLinkControlListItemLink.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|listOfProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|listOfProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|menuProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|menuProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|miniTocProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|miniTocProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|model3D.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|model3D.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|namedDestination.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|namedDestination.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|pageFooter.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|pageFooter.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|pageHeader.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|pageHeader.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|popup.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|popup.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|popupBody.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|popupBody.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|popupHead.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|popupHead.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|relatedTopics.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|relatedTopics.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|relatedTopicsControlList.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|relatedTopicsControlList.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|relatedTopicsControlListItem.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|relatedTopicsControlListItem.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|relatedTopicsControlListItemLink.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|relatedTopicsControlListItemLink.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|relationshipsHeading.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|relationshipsHeading.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|relationshipsItem.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|relationshipsItem.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|relationshipsProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|relationshipsProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|searchBarProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|searchBarProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|searchResultsProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|searchResultsProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|section.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|section.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|shortcut.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|shortcut.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|slide.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|slide.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|slideshow.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|slideshow.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|slideshowBullet.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|slideshowBullet.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|slideshowCaption.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|slideshowCaption.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|slideThumbnail.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|slideThumbnail.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|snippetBlock.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|snippetBlock.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|snippetText.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|snippetText.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|tocProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|tocProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|toggler.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|toggler.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|topicToolbarProxy.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|topicToolbarProxy.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|variable.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|variable.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|xref.pink
+{
+	color: #ff69b4;
+}
+
+MadCap|xref.underline
+{
+	text-decoration: underline;
+}
+
+MadCap|dropDownHead
+{
+	
+}
+
+MadCap|dropDown.greenunder
+{
+	color: #006400;
+	text-decoration: underline;
+}
+
+MadCap|dropDownBody.greenunder
+{
+	color: #006400;
+	text-decoration: underline;
+}
+
+MadCap|dropDownHead.greenunder
+{
+	color: #006400;
+	text-decoration: underline;
+}
+
+MadCap|dropDownHotspot.greenunder
+{
+	color: #006400;
+	text-decoration: underline;
+}
+
